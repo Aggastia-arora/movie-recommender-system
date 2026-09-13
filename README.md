@@ -1,4 +1,4 @@
-# Movie Recommender System
+# CineMatch AI
 
 A content-based movie recommendation system built using Python and cosine similarity.
 
